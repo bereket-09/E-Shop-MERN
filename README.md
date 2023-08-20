@@ -1,1 +1,7 @@
-@copyright by becodemy 2023
+Online E-commerce website
+
+USING MERN STACK
+
+- Front End
+- Back End
+- Notification Socket
